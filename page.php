@@ -1,4 +1,7 @@
 <?php get_header(); ?>
+<div class="container content">
+
+	<div class="row">
 <?php $templateURL = get_bloginfo('template_directory'); ?>
 
 		<div class="col-sm-8 page-padding">
