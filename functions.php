@@ -20,9 +20,9 @@ function remove_width_attribute( $html ) {
 
 if (!is_admin()) add_action("wp_enqueue_scripts", "yoy_scripts", 11);
 function yoy_scripts() {
-	wp_deregister_script('jquery');
-	wp_register_script( 'jquery', ( '//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js' ), false, null, true );
-	wp_enqueue_script( 'jquery' );
+	// wp_deregister_script('jquery');
+	// wp_register_script( 'jquery', ( '//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js' ), false, null, true );
+	// wp_enqueue_script( 'jquery' );
 	wp_enqueue_script( 'bootstrapjs', '//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js', array('jquery'), false, true );
 }
 
