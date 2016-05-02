@@ -103,15 +103,15 @@
 
 
 
-<nav class="navbar navbar-inverse" role="navigation">
+<nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
 
 	<div class="container">
 
 		<div class="row">
 
-			<div class="container">
+			<!-- <div class="container"> -->
 
-                <div class="social-menu-holder">
+<!--                 <div class="social-menu-holder">
 
                     <div class="social-menu">
 
@@ -166,10 +166,10 @@
 				</div>
 
 			</div>
-
+ -->
 		</div>
 
-		<div class="mobile-logo visible-xs">
+<!-- 		<div class="mobile-logo visible-xs">
 
 			<a href="<?php bloginfo('url'); ?>">
 
@@ -177,7 +177,7 @@
 
 			</a>
 
-		</div>
+		</div> -->
 
 		<div class="navbar-header">
 
