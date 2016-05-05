@@ -104,9 +104,7 @@
 
 
 <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-
-	<div class="container">
-
+	<div class="container-fluid navigation-container">
 		<div class="row">
 
 			<!-- <div class="container"> -->
@@ -180,19 +178,19 @@
 		</div> -->
 
 		<div class="navbar-header">
-
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-
+			<button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#navbar-collapse-1">
 				<span class="sr-only">Toggle navigation</span>
-
 				<span class="icon-bar"></span>
-
 				<span class="icon-bar"></span>
-
 				<span class="icon-bar"></span>
-
 			</button>
-
+			<a class="navbar-brand" href="<?php bloginfo('url'); ?>">YOUTH OF THE YEAR</a>
+			<div class="universal-nav pull-right">
+				<img src="<?php bloginfo('template_directory'); ?>/images/univ-one.png">
+				<img src="<?php bloginfo('template_directory'); ?>/images/univ-one.png">
+				<img src="<?php bloginfo('template_directory'); ?>/images/univ-one.png">
+				<img src="<?php bloginfo('template_directory'); ?>/images/univ-one.png">
+			</div>
 		</div>
 
 
@@ -200,25 +198,15 @@
 		<?php
 
 		wp_nav_menu( array(
-
 				'menu'              => 'primary',
-
 				'theme_location'    => 'primary',
-
 				'depth'             => 2,
-
 				'container'         => 'div',
-
 				'container_class'   => 'collapse navbar-collapse',
-
 				'container_id'      => 'navbar-collapse-1',
-
 				'menu_class'        => 'nav navbar-nav',
-
 				'fallback_cb'       => 'wp_bootstrap_navwalker::fallback',
-
 				'walker'            => new wp_bootstrap_navwalker())
-
 		);
 
 		?>

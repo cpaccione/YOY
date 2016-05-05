@@ -9,6 +9,54 @@ body {
 	font-size: 16px;
 }
 
+/* Always collapsed navbar */
+
+.navbar-header {
+  float: none;
+}
+.navbar-toggle {
+  display: block;
+}
+.navbar-collapse.collapse {
+  display: none!important;
+}
+.navbar-nav {
+  float: none!important;
+}
+.navbar-nav>li {
+  float: none;
+}
+.navbar-collapse.collapse.in{
+  display:block !important;
+}
+
+/* navbar brand  */
+
+.navbar-brand {
+    font-size: 26px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: #1981C4;
+}
+
+.universal-nav {
+    padding: 6px;
+}
+
+/* Mobile 3-line menu */
+
+.navbar-inverse .navbar-toggle {
+    border-color: transparent;
+    border-radius: 0px;
+    background-color: #000000;
+}
+
+
 .headermsg {
     background-image: -webkit-gradient(
             linear,
@@ -147,7 +195,7 @@ body {
 }
 
 .navbar-inverse {
-    background: #535353;
+    background: #333333;
     border: none;
 }
 
