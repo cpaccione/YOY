@@ -25,7 +25,9 @@ Template Name: Home Page
 
 
 <?php $templateURL = get_bloginfo('template_directory'); ?>
-
+<section class="main-wrapper">
+	<div class="container">
+		<div class="row">
 
 		<div class="col-sm-8 page-padding">
 
@@ -79,5 +81,9 @@ Template Name: Home Page
 		</div>
 
 		<?php get_sidebar(); ?>
+
+		</div>
+	</div>
+</section>
 
 <?php get_footer(); ?>

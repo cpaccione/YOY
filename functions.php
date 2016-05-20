@@ -28,6 +28,7 @@ function yoy_scripts() {
 
 if (!is_admin()) add_action("wp_enqueue_scripts", "yoy_styles", 11);
 function yoy_styles() {
+	wp_enqueue_style( 'oswald_font', '//fonts.googleapis.com/css?family=Oswald:700');
 	wp_enqueue_style( 'bootstrap', '//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css', false );
 	wp_enqueue_style( 'bootstrap', '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css', false );
 	wp_enqueue_style( 'yoycss', get_template_directory_uri() . '/css/style.css', false);

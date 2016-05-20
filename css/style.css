@@ -4,9 +4,11 @@
 }
 
 body {
-    background: url('../images/bg.jpg');
+    /*background: url('../images/bg.jpg');*/
 	font-family: "franklin-gothic-urw",sans-serif;
 	font-size: 16px;
+    padding-top: 67px;
+    /*padding-bottom: 30px;*/
 }
 
 /* Always collapsed navbar */
@@ -30,10 +32,13 @@ body {
   display:block !important;
 }
 
+
 /* navbar brand  */
 
 .navbar-brand {
     font-size: 26px;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 23px;
 }
 
 .navbar-inverse .navbar-brand {
@@ -48,12 +53,23 @@ body {
     padding: 6px;
 }
 
+.universal-nav img {
+    padding-right: 20px;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus,
+.navbar-inverse .navbar-nav>li>a:hover {
+    background-color: #ffffff;
+    color: #1981c4;
+}
+
 /* Mobile 3-line menu */
 
 .navbar-inverse .navbar-toggle {
     border-color: transparent;
     border-radius: 0px;
-    background-color: #000000;
+    background-color: #333333;
+    padding-top: 18px;
 }
 
 
@@ -242,9 +258,9 @@ body {
     padding-top: 35px;
 }
 
-.home .content {
+/*.home .content {
     padding-top: 0px;
-}
+}*/
 
 .bottom {
     max-width: 1024px;
@@ -351,6 +367,28 @@ h2 {
     left: 0px;
     display: block;
     height: auto;
+}
+
+/* FOOTER */
+
+.social-media-footer {
+    display: inline-flex;
+    list-style: none;
+    float: left;
+    padding-top: 25px;
+}
+
+.social-media-footer li .fa {
+    padding-right: 15px;
+}
+
+.social-media-footer a .fa:hover {
+    color: #1981C4;
+    outline: none;
+}
+
+.footer {
+    background-color: #333333;
 }
 
 footer {
@@ -885,6 +923,40 @@ a .flex-caption {
     }
 }
 
+@media screen and (max-width: 767px) {
+
+    .navbar-brand {
+        padding: 15px;
+    }
+
+    .navbar-inverse .navbar-toggle {
+        padding: 9px 10px 9px 10px;
+    }
+
+    .navbar-brand {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 67;
+        text-align: center;
+        margin: auto;
+    }
+
+    .navbar-toggle {
+        z-index:3;
+    }
+
+    .universal-nav {
+        text-align: center;
+        background-color: #f2f2f2;
+    }
+
+    .universal-nav img {
+        padding-right: 10px;
+    }
+
+}
+
 @media screen and (max-width: 649px) {
     .slider-title {
        		font-size: 30px;
@@ -901,6 +973,15 @@ a .flex-caption {
 
     }
 }
+
+
+@media screen and (max-width: 500px) {
+
+    .feed-buttons {
+        display: none;
+    }
+
+  }
 
 @media screen and (max-width: 479px) {
     .slider-title {
@@ -925,6 +1006,13 @@ a .flex-caption {
         position: absolute;
         bottom: 15px;
         top: auto
+    }
+}
+
+@media and (max-width: 500px) {
+
+    .whitney-slide .tp-bgimg {
+        background-image: none;
     }
 }
 

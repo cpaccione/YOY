@@ -92,7 +92,7 @@
 
 
 
-		</script>
+</script>
 
 
 </head>
@@ -101,11 +101,17 @@
 
 <body <?php body_class(); ?>>
 
-
-
 <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
 	<div class="container-fluid navigation-container">
-		<div class="row">
+
+		<div class="row visible-xs">
+				<div class="universal-nav">
+				<a href="http://www.bgca.org/Pages/index.aspx" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_bgc.png"></a>
+				<a href="http://greatfutures.org/pages/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_greatfutures.png"></a>
+				<a href="http://myclubmylife.com/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_club.png"></a>
+				<a href="https://donate.bgca.org/site/SPageServer/;jsessionid=EC8D5148A9ED7597D6528F3D40B48675.app250b?pagename=bgca_alumni_short_reg" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_alumni.png"></a>
+			</div>
+		</div>
 
 			<!-- <div class="container"> -->
 
@@ -165,7 +171,7 @@
 
 			</div>
  -->
-		</div>
+
 
 <!-- 		<div class="mobile-logo visible-xs">
 
@@ -178,19 +184,25 @@
 		</div> -->
 
 		<div class="navbar-header">
+
 			<button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#navbar-collapse-1">
 				<span class="sr-only">Toggle navigation</span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="<?php bloginfo('url'); ?>">YOUTH OF THE YEAR</a>
-			<div class="universal-nav pull-right">
-				<img src="<?php bloginfo('template_directory'); ?>/images/univ-one.png">
-				<img src="<?php bloginfo('template_directory'); ?>/images/univ-one.png">
-				<img src="<?php bloginfo('template_directory'); ?>/images/univ-one.png">
-				<img src="<?php bloginfo('template_directory'); ?>/images/univ-one.png">
+
+			<div class="logo-wrap">
+				<a class="navbar-brand" href="<?php bloginfo('url'); ?>">YOUTH OF THE YEAR</a>
 			</div>
+			
+			<div class="universal-nav pull-right hidden-xs">
+				<a href="http://www.bgca.org/Pages/index.aspx" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_bgc.png"></a>
+				<a href="http://greatfutures.org/pages/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_greatfutures.png"></a>
+				<a href="http://myclubmylife.com/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_club.png"></a>
+				<a href="https://donate.bgca.org/site/SPageServer/;jsessionid=EC8D5148A9ED7597D6528F3D40B48675.app250b?pagename=bgca_alumni_short_reg" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_alumni.png"></a>
+			</div>
+
 		</div>
 
 
@@ -211,8 +223,8 @@
 
 		?>
 
-	</div>
 
+	</div>
 </nav>
 
 
