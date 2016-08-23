@@ -2,19 +2,15 @@
 
 /*
 
-
-Template Name: Home Page
-
+Template name: Home page with revolution slider
 
 */
-
 
 
 ?>
 
 
 <?php get_header(); ?>
-
 
 <!-- Revolution Slider  -->
 <section class="rev-wrap">
@@ -24,10 +20,12 @@ Template Name: Home Page
 </section>
 
 
+<div class="container content">
+
+	<div class="row">
+
 <?php $templateURL = get_bloginfo('template_directory'); ?>
-<section class="main-wrapper">
-	<div class="container">
-		<div class="row">
+
 
 		<div class="col-sm-8 page-padding">
 
@@ -82,8 +80,6 @@ Template Name: Home Page
 
 		<?php get_sidebar(); ?>
 
-		</div>
-	</div>
-</section>
-
 <?php get_footer(); ?>
+
+
