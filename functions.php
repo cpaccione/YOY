@@ -29,8 +29,8 @@ function yoy_styles() {
 
 function theme_js() {
 	wp_enqueue_script( 'bootstrap_min_js', get_template_directory_uri() . '/js/bootstrap.min.js', array('jquery'), '', true );
-	wp_enqueue_script( 'jquery_flip', get_template_directory_uri() . '/js/jquery.flip.min.js', array('jquery'), '', true );
-	wp_enqueue_script( 'flip', get_template_directory_uri() . '/js/flip.js', array('jquery'), '', true );
+	wp_enqueue_script( 'jquery_flip', get_template_directory_uri() . '/js/jquery.flip.min.js', array('jquery'), '', false );
+	wp_enqueue_script( 'flip', get_template_directory_uri() . '/js/flip.js', array('jquery'), '', false );
 	wp_enqueue_script( 'theme', get_template_directory_uri() . '/js/theme.js', array('jquery'), '', true );
 }
 

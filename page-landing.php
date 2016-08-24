@@ -304,4 +304,4 @@ Template name: YOY Landing page
 
 
 
-<?php get_footer('landing'); ?>
+<?php get_footer(); ?>

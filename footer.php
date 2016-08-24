@@ -57,7 +57,7 @@
 </section>
 
 <?php wp_footer(); ?>
-<script src="<?php echo $templateURL; ?>/js/main.js"></script>
+<!-- <script src="<?php echo $templateURL; ?>/js/main.js"></script> -->
 </body>
 
 </html>
