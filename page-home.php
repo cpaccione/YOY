@@ -2,7 +2,7 @@
 
 /*
 
-Template name: Home page with revolution slider
+Template name: Home page with slider
 
 */
 
