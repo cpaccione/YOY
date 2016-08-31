@@ -53,9 +53,9 @@ Template name: YOY Landing page
      		<div class="col-md-4">
      			<div class="card">
 					<div class="front">
-						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot-07.jpg" alt="boys and girls club">
-						<h3>JOCELYN W.</h3>
-						<h4>2016 Pacific Youth of the Year</h4>
+						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot_alexia.png" alt="Alexia L">
+						<h3>ALEXIA L.</h3>
+						<h4>Northeast Region Youth of the Year</h4>
 					</div>
 					<div class="back">
 						<p>This girl is going places, including D.C. Show your support!</p>
@@ -79,7 +79,7 @@ Template name: YOY Landing page
 		      		<div class="row">
 		      			<div class="col-sm-6"></div>
 		      			<div class="col-sm-6">
-		      				<h2>Jocelyn W.</h2>
+		      				<h2>ALEXIA L.</h2>
 		      				<h3>2016 Pacific Youth of the Year</h3>
 		      				<p>Boys &amp; Girls Clubs of Silicon Valley</p>
 		      				<p>San Jose, California</p>
@@ -101,7 +101,7 @@ Template name: YOY Landing page
      		<div class="col-md-4">
      			<div class="card">
 					<div class="front">
-						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot-07.jpg" alt="boys and girls club">
+						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot_raliyah.png" alt="Raliyah D">
 						<h3>JOCELYN W.</h3>
 						<h4>2016 Pacific Youth of the Year</h4>
 					</div>
@@ -138,7 +138,7 @@ Template name: YOY Landing page
      		<div class="col-md-4">
 				<div class="card">
 					<div class="front">
-						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot-07.jpg" alt="boys and girls club">
+						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot_melanie.png" alt="Melanie W">
 						<h3>JOCELYN W.</h3>
 						<h4>2016 Pacific Youth of the Year</h4>
 					</div>
@@ -178,7 +178,7 @@ Template name: YOY Landing page
      		<div class="col-md-4">
      			<div class="card">
 					<div class="front">
-						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot-07.jpg" alt="boys and girls club">
+						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot_abria.png" alt="Abria F">
 						<h3>JOCELYN W.</h3>
 						<h4>2016 Pacific Youth of the Year</h4>
 					</div>
@@ -251,7 +251,7 @@ Template name: YOY Landing page
      		<div class="col-md-4">
 				<div class="card">
 					<div class="front">
-						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot-07.jpg" alt="boys and girls club">
+						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot_jocelyn.png" alt="Jocelyn W">
 						<h3>JOCELYN W.</h3>
 						<h4>2016 Pacific Youth of the Year</h4>
 					</div>
@@ -294,9 +294,12 @@ Template name: YOY Landing page
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-
-				<h2>Lorem Ipsum</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <div class="pre-footer-wrap">
+            <h2>WATCH IT LIVE. WIN BIG!</h2>
+            <h3>September 27</h3>
+    				<p>One of these six awe-inspiring young leaders will be named the 2016-2017 National Youth of the Year! Watch it all happen during our Facebook <b>LIVE EVENT!</b> Follow us to see highlights from the big day, celebrity alumni and friends walk the Blue Carpet and some surprise guests! Share, comment and participate during our live stream for a chance to win some big prizes.</p>
+            <h3>Tune In to Win!</h3>
+          </div>
 				</div>
 			</div>
 		</div>

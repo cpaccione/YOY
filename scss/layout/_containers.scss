@@ -11,7 +11,7 @@
 .landing-wrap {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
-	background-color: #000000;
+	background-color: $black;
 	background-image: url('../images/background.png');
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -23,19 +23,19 @@
 .btn-lg {
 	background-color: transparent;
 	border-radius: 0;
-	border: 1px solid #ffffff;
+	border: 1px solid $white;
 	text-transform: uppercase;
 	width: 200px;
-	box-shadow: inset 0 0 0 0 #ffffff;
+	box-shadow: inset 0 0 0 0 $white;
 	-webkit-transition: -webkit-box-shadow 300ms ease-in-out;
  	-moz-transition: -moz-box-shadow 300ms ease-in-out;
   	transition: box-shadow 300ms ease-in-out;
 }
 
 .slideRight:hover{
-  box-shadow:inset 300px 0 0 0 #ffffff;
+  box-shadow:inset 300px 0 0 0 $white;
   background-color: transparent;
-  color: #6cd7c8;
+  color: $aqua;
 }
 
 /* Header */
@@ -48,14 +48,14 @@
 	margin: 0;
 	font-size: 48px;
 	font-weight: 400;
-	color: #ffffff;
+	color: $white;
 }
 
 .hero-copy h1 {
 	margin: 0;
 	font-family: 'Oswald', sans-serif;
 	font-size: 85px;
-	color: #ffffff;
+	color: $white;
 }
 
 .card {
@@ -75,12 +75,12 @@
 	margin: 0;
 	font-size: 38px;
 	font-weight: 400;
-	color: #6cd7c8;
+	color: $aqua;
 }
 
 .subhead p {
 	font-size: 32px;
-	color: #6cd7c8;
+	color: $aqua;
 }
 
 /* Body Content */
@@ -94,13 +94,13 @@
 }
 
 .front {
-	background-color: #ffffff;
+	background-color: $white;
 }
 
 .back {
-	background-color: #6cd7c8;
+	background-color: $aqua;
 	text-align: center;
-	color: #ffffff;
+	color: $white;
 }
 
 .back p {
@@ -159,19 +159,41 @@
 /* Pre-footer */
 
 .pre-footer {
-	background-color: #ffffff;
+	background-color: $white;
+	height: 630px;
+
 }
 
-.pre-footer h2 {
-	font-size: 38px;
-	font-weight: 700;
-	color: #76b3db;
+	.pre-footer-wrap {
+		max-width: 965px;
+		margin: 0 auto;
+
+	h2 {
+		font-family: 'Oswald', sans-serif;
+		font-size: 85px;
+		font-weight: 700;
+		text-transform: blue;
+		margin: 0;
+		padding: 80px 0 20px 0;
+		color: $blue;
+	}
+
+	h3 {
+		color: $aqua;
+		font-size: 38px;
+		padding: 15px 0 15px 0;
+	}
+
+	p {
+		font-size: 20px;
+		line-height: 30px;
+		padding: 15px 0 30px 0;
+		color: $grey;
+	}
+
+
 }
 
-.pre-footer p {
-	font-size: 20px;
-	color: #666666;
-}
 
 /* Footer */
 
