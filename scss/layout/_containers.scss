@@ -45,14 +45,16 @@
 }
 
 .hero-copy h2 {
+	margin: 0;
 	font-size: 48px;
 	font-weight: 400;
 	color: #ffffff;
 }
 
 .hero-copy h1 {
+	margin: 0;
 	font-family: 'Oswald', sans-serif;
-	font-size: 100px;
+	font-size: 85px;
 	color: #ffffff;
 }
 
@@ -70,8 +72,9 @@
 /* Subhead */
 
 .subhead h2 {
+	margin: 0;
 	font-size: 38px;
-	font-weight: 700;
+	font-weight: 400;
 	color: #6cd7c8;
 }
 
@@ -213,5 +216,3 @@ ul.social-media li {
 	}
 
 }
-
-

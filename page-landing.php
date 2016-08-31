@@ -18,20 +18,20 @@ Template name: YOY Landing page
     <div class="container">
 
     <header>
-    
+
     	<div class="row">
     		<div class="col-md-12">
     			<div class="landing-page-logo">
-    		    	<a href="http://youthoftheyear.org"><img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/yoylogo.png" alt="Youth of the Year logo"></a>		
+    		    	<a href="http://youthoftheyear.org"><img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/yoy_logo_landing_page.png" alt="Youth of the Year logo"></a>
     			</div>
-    		</div>    		
+    		</div>
     	</div>
 
     	<div class="row">
     		<div class="col-md-12 text-center">
     			<div class="hero-copy">
-    				<h2>Who Will Be the Next National</h2>
-    				<h1>YOUTH OF THE YEAR?</h1>
+    				<h2>Who Will Be the Next</h2>
+    				<h1>NATIONAL YOUTH OF THE YEAR?</h1>
     			</div>
     		</div>
     	</div>
@@ -39,13 +39,13 @@ Template name: YOY Landing page
     	<div class="row">
     		<div class="col-md-12">
     			<div class="subhead text-center">
-    				<h2>Who's your favorite?</h2>
-    				<p>Learn their stories. Show your support. Spread the word!</p>
+    				<h2>These Teens Are Going Places! Follow Their Lead!</h2>
+    				<p>Meet our finalists. Share their stories. Celebrate their journey.</p>
     			</div>
     		</div>
     	</div>
     </header>
-     
+
      <section class="profile-photos">
 
      	<div class="row first-row">
@@ -63,7 +63,7 @@ Template name: YOY Landing page
 						<button type="button" class="btn btn-info btn-lg slideRight" data-toggle="modal" data-target="#modal-one">Read More</button>
 					</div>
 			    </div>
-			
+
 			<!-- Modal One -->
 			<div class="modal fade" id="modal-one" role="dialog">
 			  <div class="modal-dialog modal-lg">
@@ -111,7 +111,7 @@ Template name: YOY Landing page
 						<button type="button" class="btn btn-info btn-lg slideRight" data-toggle="modal" data-target="#modal-two">READ MORE</button>
 					</div>
 			    </div>
-			 
+
 			<!-- Modal Two -->
 			<div id="modal-two" class="modal fade" role="dialog">
 			  <div class="modal-dialog modal-lg">
@@ -262,7 +262,7 @@ Template name: YOY Landing page
 					</div>
 				</div>
      		</div>
-     		
+
      		<!-- Modal Six -->
 			<div id="modal-six" class="modal fade" role="dialog">
 			  <div class="modal-dialog modal-lg">
