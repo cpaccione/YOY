@@ -4,4 +4,6 @@ jQuery(document).ready(function($) {
 		trigger: "hover"
 	});
 
+	// $(document).foundation();
+
 });

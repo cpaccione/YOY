@@ -64,11 +64,11 @@
 
 	<?php wp_head(); ?>
 
-	
 
-		<script src="//use.typekit.net/oiu7ysa.js"></script>
 
-		<script>try{Typekit.load();}catch(e){}</script>
+		<!-- <script src="//use.typekit.net/oiu7ysa.js"></script> -->
+
+		<!-- <script>try{Typekit.load();}catch(e){}</script> -->
 
 
 
@@ -82,7 +82,7 @@
 
 		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		
+
 
 		  ga('create', 'UA-3761046-37', 'auto');
 
@@ -195,7 +195,7 @@
 			<div class="logo-wrap">
 				<a class="navbar-brand" href="<?php bloginfo('url'); ?>">YOUTH OF THE YEAR</a>
 			</div>
-			
+
 			<div class="universal-nav pull-right hidden-xs">
 				<a href="http://www.bgca.org/Pages/index.aspx" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_bgc.png"></a>
 				<a href="http://greatfutures.org/pages/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_greatfutures.png"></a>
@@ -238,4 +238,3 @@
 <!-- <div class="container content">
 
 	<div class="row"> -->
-

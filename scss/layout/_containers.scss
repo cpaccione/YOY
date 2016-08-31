@@ -156,6 +156,22 @@
 	width: 1170px;
 }
 
+@media (max-width: 1200px) {
+
+	.modal-lg {
+		width: 900px;
+	}
+
+}
+
+@media (max-width: 992px) {
+
+	.modal-lg {
+		width: auto;
+	}
+
+}
+
 /* Pre-footer */
 
 .pre-footer {
@@ -221,20 +237,4 @@ ul.social-media li {
 
 .social-media .fa {
 	color: #b3b3b3;
-}
-
-@media (max-width: 1200px) {
-
-	.modal-lg {
-		width: 900px;
-	}
-
-}
-
-@media (max-width: 992px) {
-
-	.modal-lg {
-		width: auto;
-	}
-
 }
