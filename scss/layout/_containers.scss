@@ -1,12 +1,122 @@
 // YOY Landing Page
 
-// body {
-// 	font-family: 'Roboto', sans-serif;
-// 	font-weight: 400;
-// 	padding-top: 50px;
-// 	background-color: #000000;
-// 	height: 100%;
-// }
+// Modal Styles
+
+.modal-body {
+
+  padding: 50px;
+
+  svg {
+    height: 60px;
+    margin-top: 50px;
+  }
+
+  h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 99px;
+    color: $blue;
+  }
+
+  h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 700;
+    color: $grey;
+  }
+
+  h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 700;
+    color: $aqua;
+  }
+
+  p {
+
+    font-size: 20px;
+    font-weight: 400;
+    color: $grey;
+  }
+
+  .social-cta {
+    border: 2px solid $aqua;
+    text-align: center;
+    margin-bottom: 35px;
+
+    h5 {
+      font-size: 17px;
+      font-weight: 700;
+      color: $blue;
+    }
+
+  }
+
+}
+
+.modal {
+  overflow-y:auto;
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+ul.modal-navigation li {
+	display: inline-block;
+}
+
+.quote-wrap {
+  max-width: 880px;
+  margin: 0 auto;
+  padding-top: 60px;
+
+  p {
+    font-family: 'Oswald', sans-serif;
+    font-size: 33px;
+    color: $light-blue;
+  }
+
+}
+
+.social {
+	background-color: $blue;
+	color: $white;
+  height: 70px;
+
+  p {
+    padding-top: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+
+}
+
+.white-break {
+  background-color: $white;
+  height: 5px;
+}
+
+.modal-footer {
+	background-color: $aqua;
+	padding: 0 0 15px 0;
+	text-align: center;
+
+  .modal-nav-container {
+    height: 160px;
+  }
+
+}
+
 
 .landing-wrap {
 	font-family: 'Roboto', sans-serif;
