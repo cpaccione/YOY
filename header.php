@@ -1,21 +1,10 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
 	<meta charset="utf-8">
-
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-	<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
-
-	<link href='//fonts.googleapis.com/css?family=Muli:400,400italic,300,300italic' rel='stylesheet' type='text/css'>
-
+	
 <!--Favicon added by JM 20150811-->
 
 <link rel="apple-touch-icon" sizes="57x57" href="/wp-content/themes/yoy/images/apple-icon-57x57.png">
@@ -66,9 +55,9 @@
 
 
 
-		<!-- <script src="//use.typekit.net/oiu7ysa.js"></script> -->
+		<script src="//use.typekit.net/oiu7ysa.js"></script>
 
-		<!-- <script>try{Typekit.load();}catch(e){}</script> -->
+		<script>try{Typekit.load();}catch(e){}</script>
 
 
 
@@ -112,76 +101,6 @@
 				<a href="https://donate.bgca.org/site/SPageServer/;jsessionid=EC8D5148A9ED7597D6528F3D40B48675.app250b?pagename=bgca_alumni_short_reg" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/universal_logo_alumni.png"></a>
 			</div>
 		</div>
-
-			<!-- <div class="container"> -->
-
-<!--                 <div class="social-menu-holder">
-
-                    <div class="social-menu">
-
-                        <?php
-
-                        $yt = yoy_get_option('youtube_url');
-
-                        $fb = yoy_get_option('facebook_url');
-
-                        $tw = yoy_get_option('twitter_url');
-
-                        $ig = yoy_get_option('instagram_url');
-
-                        ?>
-
-                        <a href="<?php echo $yt; ?>"><i class="fa fa-youtube"></i></a>
-
-                        <a href="<?php echo $fb; ?>"><i class="fa fa-facebook"></i></a>
-
-                        <a href="<?php echo $tw; ?>"><i class="fa fa-twitter"></i></a>
-
-                        <a href="<?php echo $ig; ?>"><i class="fa fa-instagram"></i></a>
-
-                    </div>
-
-                </div>
-
-				<div class="donatew">
-
-					<a href="https://secure2.convio.net/bgca/site/Donation2?7942.donation=form1&df_id=7942&_ga=1.121512712.1666177972.1431550001" class="btn btn-primary btn-large donate">DONATE NOW</a>
-
-				</div>
-
-				<div class="col-sm-3 col-md-3 pull-right hidden-xs">
-
-					<form class="navbar-form fright" role="search" action="<?php bloginfo('url'); ?>">
-
-						<div class="input-group">
-
-							<input type="text" class="form-control search" placeholder="<?php _e('Search', 'yoy'); ?>" name="s">
-
-							<div class="input-group-btn">
-
-								<button class="btn btn-default search" type="submit"><i class="glyphicon glyphicon-search"></i></button>
-
-							</div>
-
-						</div>
-
-					</form>
-
-				</div>
-
-			</div>
- -->
-
-
-<!-- 		<div class="mobile-logo visible-xs">
-
-			<a href="<?php bloginfo('url'); ?>">
-
-				<img src="<?php bloginfo('template_directory'); ?>/images/logo-small.png" />
-
-			</a>
-
-		</div> -->
 
 		<div class="navbar-header">
 

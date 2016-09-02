@@ -6,6 +6,11 @@ body {
     /*padding-bottom: 30px;*/
 }
 
+hr.blue {
+  border-top: solid $blue 3px;
+  opacity: .6;
+}
+
 h1 {
     color: #1882c5;
     font-size: 31px;
