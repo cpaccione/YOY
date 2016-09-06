@@ -13,10 +13,10 @@
 			<div class="col-sm-3 text-right gallery-case">
 				<a href="http://bgca.org/Pages/index.aspx" target="_blank"><img src="<?php echo $templateURL; ?>/images/bgca.png" class="img-responsive"></a>
 				<ul class="social-media-footer">
-					<a href="https://www.facebook.com/bgca.clubs" target="_blank"><li><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></li></a>
-					<a href="https://www.youtube.com/playlist?list=PL8O6tdwpXwZaOkhyQVvxiNDd6RAB_2KfU" target="_blank"><li><i class="fa fa-youtube fa-3x" aria-hidden="true"></i></li></a>
-					<a href="http://twitter.com/bgca_clubs" target="_blank"><li><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></li></a>
-					<a href="http://www.instagram.com/bgca_clubs" target="_blank"><li><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></li></a>
+					<a href="https://www.facebook.com/bgca.clubs" target="_blank"><li><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></li></a>
+					<a href="https://www.youtube.com/playlist?list=PL8O6tdwpXwZaOkhyQVvxiNDd6RAB_2KfU" target="_blank"><li><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></li></a>
+					<a href="http://twitter.com/bgca_clubs" target="_blank"><li><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></li></a>
+					<a href="http://www.instagram.com/bgca_clubs" target="_blank"><li><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></li></a>
 				</ul>
 			</div>
 		</div>

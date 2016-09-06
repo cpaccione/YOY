@@ -130,7 +130,8 @@
 }
 
 .slider-title {
-    font-size: 38px;
+    // font-size: 38px;
+    font-size: 2.375em;
     font-family: 'Raleway', sans-serif;
     font-weight: 200;
     right: 15px;
@@ -138,7 +139,8 @@
 }
 
 .slider-title2 {
-    font-size: 30px;
+    // font-size: 30px;
+    font-size: 1.875em;
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
     right: 15px;
@@ -146,7 +148,8 @@
 }
 
 .slider-title3 {
-    font-size: 18px;
+    // font-size: 18px;
+    font-size: 1.125em;
     font-family: 'Raleway', sans-serif;
     font-weight: 200;
      right: 15px;
@@ -184,21 +187,24 @@
         margin-bottom: 15px;
     }
     .slider-title {
-        	font-size: 22px;
+        	// font-size: 22px;
+            font-size: 1.375em;
             font-family: 'Raleway', sans-serif;
 			font-weight: 200;
 			    right: 15px;
 
     }
     .slider-title2 {
-        	font-size: 16px;
+        	// font-size: 16px;
+            font-size: 1em;
             font-family: 'Raleway', sans-serif;
 			font-weight: 400;
 			    right: 15px;
 
     }
     .slider-title3 {
-        	font-size: 12px;
+        	// font-size: 12px;
+            font-size: 0.75em;
             font-family: 'Raleway', sans-serif;
 			font-weight: 200;
 			right: 15px;
@@ -229,7 +235,8 @@
 
 @media (max-width:380px) {
     .donate {
-        font-size: 16px;
+        // font-size: 16px;
+        font-size: 1em;
     }
 }
 
@@ -394,7 +401,8 @@ a .flex-caption {
 
 .flex-direction-nav a:before {
     font-family: "flexslider-icon";
-    font-size: 40px;
+    // font-size: 40px;
+    font-size: 2.5em;
     display: inline-block;
     content: '\f001';
     color: rgba(255, 255, 255, 0.8);
@@ -454,7 +462,8 @@ a .flex-caption {
 
 .flex-pauseplay a:before {
     font-family: "flexslider-icon";
-    font-size: 20px;
+    // font-size: 20px;
+    font-size: 1.25em;
     display: inline-block;
     content: '\f004';
 }
@@ -605,14 +614,16 @@ a .flex-caption {
 
 @media screen and (max-width: 649px) {
     .slider-title {
-       		font-size: 30px;
+       		// font-size: 30px;
+            font-size: 1.875em;
             font-family: 'Raleway', sans-serif;
 			font-weight: 200;
 			    right: 15px;
 
     }
     .slider-title2 {
-        	font-size: 25px;
+        	// font-size: 25px;
+            font-size: 1.5625em;
             font-family: 'Raleway', sans-serif;
 			font-weight: 200;
 			    right: 15px;
@@ -631,17 +642,20 @@ a .flex-caption {
 
 @media screen and (max-width: 479px) {
     .slider-title {
-        	font-size: 25px;
+        	// font-size: 25px;
+            font-size: 1.5625em;
             font-family: 'Raleway', sans-serif;
 			font-weight: 200;
     }
     .slider-title2 {
-        	font-size: 20px;
+        	// font-size: 20px;
+            font-size: 1.25em;
 	            font-family: 'Raleway', sans-serif;
 				font-weight: 400;
     }
     .slider-title3 {
-        	font-size: 13px;
+        	// font-size: 13px;
+            font-size: 0.8125em;
             font-family: 'Raleway', sans-serif;
 			font-weight: 200;
     }
@@ -663,7 +677,8 @@ a .flex-caption {
 }
 
 blockquote {
-    font-size: 14px;
+    // font-size: 14px;
+    font-size: 0.875em;
     color: #666;
     font-family: Georgia, serif;
     font-style: italic;
@@ -675,5 +690,6 @@ blockquote {
 }
 
 .copyright {
-	font-size: 12px;
+	// font-size: 12px;
+    font-size: 0.75em;
 }

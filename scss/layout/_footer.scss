@@ -7,10 +7,14 @@
     padding-top: 25px;
 }
 
-.social-media-footer li .fa {
-    padding-right: 15px;
-}
+.social-media-footer {
+  padding-left: 0px;
 
+  li .fa {
+    padding-right: 15px;
+  }
+
+}
 .social-media-footer a .fa:hover {
     color: #1981C4;
     outline: none;
@@ -60,7 +64,8 @@ footer p {
 
 .footermw ul a {
     color: #d0d0d0;
-    font-size: 14px;
+    // font-size: 14px;
+    font-size: 0.875em;
     text-decoration: none;
 }
 

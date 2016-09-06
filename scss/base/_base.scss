@@ -1,7 +1,12 @@
+html {
+    font-size: 100%;
+}
+
 body {
     /*background: url('../images/bg.jpg');*/
 	font-family: "franklin-gothic-urw", sans-serif;
-	font-size: 16px;
+    // font-size: 16px;
+	font-size: 1em;
     padding-top: 67px;
     /*padding-bottom: 30px;*/
 }
@@ -13,17 +18,20 @@ hr.blue {
 
 h1 {
     color: #1882c5;
-    font-size: 31px;
+    // font-size: 31px;
+    font-size: 1.9375em;
     margin: 35px 0;
 }
 
 h2 {
     color: #232323;
-    font-size: 31px;
+    // font-size: 31px;
+    font-size: 1.9375em;
     margin: 25px 0 15px 0;
 }
 
 .h3, h3 {
-    font-size: 24px;
+    // font-size: 24px;
+    font-size: 1.5em;
     margin-top: 0px;
 }

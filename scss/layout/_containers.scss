@@ -13,27 +13,30 @@
 
   h2 {
     font-family: 'Oswald', sans-serif;
-    font-size: 99px;
+    // font-size: 99px;
+    font-size: 6.1875em;
     color: $blue;
   }
 
   h3 {
     font-family: 'Roboto', sans-serif;
-    font-size: 34px;
+    // font-size: 34px;
+    font-size: 2.125em;
     font-weight: 700;
     color: $grey;
   }
 
   h4 {
     font-family: 'Roboto', sans-serif;
-    font-size: 34px;
+    // font-size: 34px;
+    font-size: 2.125em;
     font-weight: 700;
     color: $aqua;
   }
 
   p {
-
-    font-size: 20px;
+    // font-size: 20px;
+    font-size: 1.25em;
     font-weight: 400;
     color: $grey;
   }
@@ -44,7 +47,8 @@
     margin-bottom: 35px;
 
     h5 {
-      font-size: 17px;
+      // font-size: 17px;
+      font-size: 1.0625em;
       font-weight: 700;
       color: $blue;
     }
@@ -94,7 +98,8 @@ ul.modal-navigation {
 
   p {
     font-family: 'Oswald', sans-serif;
-    font-size: 33px;
+    // font-size: 33px;
+    font-size: 2.0625em;
     color: $light-blue;
   }
 
@@ -108,7 +113,8 @@ ul.modal-navigation {
   p {
     padding-top: 12px;
     font-family: 'Roboto', sans-serif;
-    font-size: 20px;
+    // font-size: 20px;
+    font-size: 0.0625em;
   }
 
 }
@@ -152,6 +158,10 @@ ul.modal-navigation {
 	-webkit-transition: -webkit-box-shadow 300ms ease-in-out;
  	-moz-transition: -moz-box-shadow 300ms ease-in-out;
   	transition: box-shadow 300ms ease-in-out;
+
+    @media #{$brk-992} {
+      width: 100%;
+    }
 }
 
 .slideRight:hover{
@@ -166,21 +176,58 @@ ul.modal-navigation {
 	padding-top: 50px;
 }
 
-.hero-copy h2 {
-	margin: 0;
-	font-size: 48px;
-  line-height: 37px;
-	font-weight: 400;
-	color: $white;
+.hero-copy {
+
+  h2 {
+  	margin: 0;
+  	// font-size: 48px;
+    font-size: 3em;
+    line-height: 37px;
+  	font-weight: 400;
+  	color: $white;
+
+    @media #{$brk-992} {
+      // font-size: 36px;
+      font-size: 2.25em;
+    }
+
+    @media #{$brk-small} {
+      // font-size: 24px;
+      font-size: 1.5em;
+    }
+
+  }
+
+  h1 {
+  	margin: 0;
+  	font-family: 'Oswald', sans-serif;
+  	font-size: 85px;
+    line-height: 102px;
+  	color: $white;
+
+    @media #{$brk-1200} {
+      font-size: 70px;
+    }
+
+    @media #{$brk-992} {
+      font-size: 50px;
+      line-height: 80px;
+    }
+
+    @media #{$brk-small} {
+      font-size: 45px;
+      line-height: 55px;
+    }
+
+    @media #{$brk-smaller} {
+      font-size: 40px;
+      line-height: 50px;
+    }
+  }
+
 }
 
-.hero-copy h1 {
-	margin: 0;
-	font-family: 'Oswald', sans-serif;
-	font-size: 85px;
-  line-height: 102px;
-	color: $white;
-}
+
 
 .card {
   font-family: 'Roboto', sans-serif;
@@ -189,6 +236,10 @@ ul.modal-navigation {
 
   figure {
     padding: 15px 0 0 0;
+
+    @media #{$brk-992} {
+      padding: 0;
+    }
   }
 
   @media (max-width: 1200px) {
@@ -206,15 +257,6 @@ ul.modal-navigation {
   	width: 344px;
     margin: 0 auto;
     margin-bottom: 50px;
-  }
-
-  h3 {
-    font-size: 20px;
-    line-height: 30px;
-  }
-
-  h4 {
-    font-size: 16px;
   }
 
   img {
@@ -246,12 +288,26 @@ ul.modal-navigation {
 .subhead {
   padding: 25px 0 30px 0;
 
+  @media #{$brk-992} {
+    padding: 0 0 30px 0;
+  }
+
   h2 {
     margin: 0;
     font-size: 38px;
     line-height: 44px;
     font-weight: 700;
     color: $aqua;
+
+    @media #{$brk-992} {
+      font-size: 30px;
+      line-height: 50px;
+    }
+
+    @media #{$brk-767} {
+      font-size: 24px;
+      line-height: inherit;
+    }
   }
 
   p {
@@ -259,6 +315,16 @@ ul.modal-navigation {
     line-height: 44px;
     font-weight: 400;
     color: $aqua;
+
+    @media #{$brk-992} {
+      font-size: 22px;
+      line-height: 20px;
+    }
+
+    @media #{$brk-767} {
+      font-size: 16px;
+      line-height: inherit;
+    }
   }
 
 }
@@ -287,10 +353,30 @@ ul.modal-navigation {
 	color: $white;
   padding: 50px 40px 0 40px;
 
+  @media #{$brk-992} {
+    padding: 40px 15px 0 15px;
+  }
+
+
   p {
     font-size: 30px;
     line-height: 40px;
     font-weight: 700;
+
+    @media #{$brk-1200} {
+      font-size: 20px;
+      line-height: 30px;
+    }
+
+    @media #{$brk-992} {
+      font-size: 16px;
+      line-height: 25px;
+    }
+
+    @media #{$brk-767} {
+      font-size: 30px;
+      line-height: 40px;
+    }
   }
 
 }
@@ -302,6 +388,16 @@ ul.modal-navigation {
 	margin: 0;
 	padding: 0;
 	font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+  @media #{$brk-992} {
+    font-size: 12px;
+  }
+
+  @media #{$brk-767} {
+    font-size: 20px;
+  }
 }
 
 .front h4 {
@@ -311,6 +407,20 @@ ul.modal-navigation {
 	text-align: center;
 	margin: 0;
 	padding: 0;
+  font-size: 16px;
+
+  @media #{$brk-1200} {
+    font-size: 12px;
+  }
+
+  @media #{$brk-992} {
+    font-size: 10px;
+  }
+
+  @media #{$brk-767} {
+    font-size: 16px;
+  }
+
 }
 
 /* Modal styles */
@@ -339,6 +449,15 @@ ul.modal-navigation {
 	border-radius: 0px;
 }
 
+.modal-footer {
+  .fa {
+    color: $white;
+    &:hover {
+      color: $aqua;
+    }
+  }
+}
+
 .modal-lg {
 	width: 1170px;
 }
@@ -364,6 +483,10 @@ ul.modal-navigation {
 .pre-footer {
 	background-color: $white;
 	height: 630px;
+
+  @media #{$brk-992} {
+    height: 100%;
+  }
 }
 
 	.pre-footer-wrap {
@@ -372,22 +495,30 @@ ul.modal-navigation {
 
 	h2 {
 		font-family: 'Oswald', sans-serif;
-		font-size: 85px;
+		// font-size: 85px;
+    font-size: 5.3125em;
 		font-weight: 700;
 		text-transform: blue;
 		margin: 0;
 		padding: 80px 0 20px 0;
 		color: $blue;
+
+    @media #{$brk-992} {
+      // font-size: 70px;
+      font-size: 4.375em;
+    }
 	}
 
 	h3 {
 		color: $aqua;
-		font-size: 38px;
+		// font-size: 38px;
+    font-size: 2.375em;
 		padding: 15px 0 15px 0;
 	}
 
 	p {
-		font-size: 20px;
+		// font-size: 20px;
+    font-size: 1.25em;
 		line-height: 30px;
 		padding: 15px 0 30px 0;
 		color: $grey;
@@ -402,7 +533,8 @@ ul.modal-navigation {
   }
 
   h5 {
-    font-size: 17px;
+    // font-size: 17px;
+    font-size: 1.0625em;
     font-weight: 700;
     color: $blue;
   }
@@ -422,7 +554,8 @@ ul.modal-navigation {
 }
 
 .site-link {
-	font-size: 20px;
+	// font-size: 20px;
+  font-size: 0.0625em;
 	font-weight: 700;
 }
 

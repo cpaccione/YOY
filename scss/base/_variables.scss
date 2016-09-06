@@ -9,3 +9,15 @@ $aqua : #6cd7c8;
 $blue : #1980c1;
 $light-blue : #76b0d8;
 $grey : #666666;
+
+// Media Queries
+
+$brk-1200 : '(max-width: 1200px)';
+$brk-wide : '(max-width: 1024px)';
+$brk-992 : '(max-width: 992px)';
+$brk-narrow : '(max-width: 768px)';
+$brk-767 : '(max-width: 767px)';
+$brk-600 : '(max-width: 600px)';
+$brk-small : '(max-width: 500px)';
+$brk-375 : '(max-width: 375px)';
+$brk-smaller : '(max-width: 320px)';
