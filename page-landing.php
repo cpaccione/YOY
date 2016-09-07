@@ -87,7 +87,7 @@ Template name: YOY Landing page
                    </div>
                     <div class="col-sm-6">
                       <h2>Alexia L.</h2>
-                      <h3>2016 Northeast Region<br>Youth of the Year</h3>
+                      <h3>2016-17 Northeast Region<br>Youth of the Year</h3>
                       <p><b>Boys &amp; Girls Clubs of Vineland</b></p>
                       <p><b>Vineland, NJ</b></p>
                       <p>A passionate humanitarian and powerful leader, Alexia found her voice at her Boys &amp; Girls Club. Leading 'Bags for Beauties,' she helped collect hygiene items for the homeless. Serving as president of her Club's Keystone Club, she is a champion for gun safety and violence awareness and found of a self-esteem program called 'You Can Too.' She will attend Hampton University this fall and plans to become Chief Justice of the United States.</p>
@@ -173,7 +173,7 @@ Template name: YOY Landing page
             </figure>
 					</div>
 					<div class="back">
-						<p>Check out his road to D.C. and spread the word!</p>
+						<p>Check out her road to D.C. and spread the word!</p>
 						<!-- Trigger/Open The Modal -->
 						<button type="button" class="btn btn-info btn-lg slideRight" data-toggle="modal" data-target="#modal-two">READ MORE</button>
 					</div>
@@ -199,7 +199,7 @@ Template name: YOY Landing page
                    </div>
                     <div class="col-sm-6">
                       <h2>Raliyah D.</h2>
-                      <h3>2016 Southeast Region<br>Youth of the Year</h3>
+                      <h3>2016-17 Southeast Region<br>Youth of the Year</h3>
                       <p><b>Boys &amp; Girls Clubs of Indian River County</b></p>
                       <p><b>Vero Beach, Florida</b></p>
                       <p>Raliyah is a natural leader with an infectiously positive attitude. As president of her Club’s service arm, Keystone Club, Raliyah volunteers regularly in the Vero Beach community. She is also involved in her school as president of the Health Occupation Students of America (HOSA) program and member of the school’s basketball team. Raliyah plans to become a nurse practitioner and will attend Florida Gulf Coast University this fall.</p>
@@ -311,7 +311,7 @@ Template name: YOY Landing page
                  </div>
                   <div class="col-sm-6">
                     <h2>Melanie W.</h2>
-                    <h3>2016 Southwest Region<br>Youth of the Year</h3>
+                    <h3>2016-17 Southwest Region<br>Youth of the Year</h3>
                     <p><b>Boys &amp; Girls Clubs of the Austin Area</b></p>
                     <p><b>Austin, Texas</b></p>
                     <p>Before Melanie started high school, she had no idea where her path would lead. Joining her local Boys &amp; Girls Club brought Melanie into a supportive environment that encouraged her to plan for the future and instilled in her the belief that she could achieve anything with hard work. Not only did her Club inspire Melanie to dream big, it also equipped her with the skills and tools needed to accomplish her new goals, one of which is becoming a doctor.</p>
@@ -431,7 +431,7 @@ Template name: YOY Landing page
                  </div>
                   <div class="col-sm-6">
                     <h2>Abria F.</h2>
-                    <h3>2016 Midwest Region<br>Youth of the Year</h3>
+                    <h3>2016-17 Midwest Region<br>Youth of the Year</h3>
                     <p><b>Boys &amp; Girls Clubs of Greater Holland</b></p>
                     <p><b>Holland, Mich.</b></p>
                     <p>After moving from her home in Detroit to the small city of Holland, Mich, Abria struggled with the pressures of social acceptance and low self-esteem. However, her instant connection with the Club helped her achieve self-acceptance. As a result, Abria has grown as a leader from being a member of her high school’s Varsity Cheer Team to making her school’s honor roll every semester.</p>
@@ -513,7 +513,7 @@ Template name: YOY Landing page
 						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot-07.jpg" alt="boys and girls club">
             <figure>
               <h3>TBD</h3>
-  						<h4>2016 Pacific Youth of the Year</h4>
+  						<h4>2016-17 Pacific Youth of the Year</h4>
             </figure>
 					</div>
 					<div class="back">
@@ -596,7 +596,7 @@ Template name: YOY Landing page
                  </div>
                   <div class="col-sm-6">
                     <h2>Jocelyn W.</h2>
-                    <h3>2016 Pacific Region<br>Youth of the Year</h3>
+                    <h3>2016-17 Pacific Region<br>Youth of the Year</h3>
                     <p><b>Boys &amp; Girls Clubs of Silicon Valley</b></p>
                     <p><b>San Jose, California</b></p>
                     <p>When Jocelyn joined her Boys &amp; Girls Club at age five, she gained positive, caring relationships with adults who encouraged her to excel. That encouragement pushed her to excel.  She has founded U.T.A.P. (Under-represented Teen Advocacy Program), a nonprofit that connects Bay-area teens in need with available services. Jocelyn plans to study journalism at University of Southern California and become a journalist, lawyer and entrepreneur.</p>
