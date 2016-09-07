@@ -6,24 +6,61 @@
 
   padding: 50px;
 
-  svg {
-    height: 60px;
+  @media #{$brk-small} {
+    padding: 15px;
+  }
+
+// Profile information in modal. Name, Region, and location.
+  .profile-meta {
+    padding-bottom: 15px;
+
+    h2 {
+      font-family: 'Oswald', sans-serif;
+      // font-size: 99px;
+      font-size: 6.1875em;
+      color: $blue;
+
+      @media #{$brk-1200} {
+        font-size: 5em;
+      }
+
+      @media #{$brk-narrow} {
+        font-size: 4em;
+      }
+
+      @media #{$brk-small} {
+        font-size: 3em;
+      }
+
+    }
+
+    h3 {
+      font-family: 'Roboto', sans-serif;
+      // font-size: 34px;
+      font-size: 2.125em;
+      margin: 0;
+      font-weight: 700;
+      color: $grey;
+
+      @media #{$brk-small} {
+        font-size: 1.50em;
+      }
+
+    }
+
+    p {
+      margin: 0;
+    }
+
+  }
+
+  .quote {
+    width: 76px;
     margin-top: 50px;
-  }
 
-  h2 {
-    font-family: 'Oswald', sans-serif;
-    // font-size: 99px;
-    font-size: 6.1875em;
-    color: $blue;
-  }
-
-  h3 {
-    font-family: 'Roboto', sans-serif;
-    // font-size: 34px;
-    font-size: 2.125em;
-    font-weight: 700;
-    color: $grey;
+    @media #{$brk-767} {
+      margin-top: 25px;
+    }
   }
 
   h4 {
@@ -94,13 +131,25 @@ ul.modal-navigation {
 .quote-wrap {
   max-width: 880px;
   margin: 0 auto;
-  padding-top: 60px;
+  padding: 60px 0 0 0;
+
+  @media #{$brk-1200} {
+    padding: 60px 0 0 25px;
+  }
+
+  @media #{$brk-767} {
+    padding: 15px 0 0 0;
+  }
 
   p {
     font-family: 'Oswald', sans-serif;
     // font-size: 33px;
     font-size: 2.0625em;
     color: $light-blue;
+
+    @media #{$brk-small} {
+      font-size: 1.25em;
+    }
   }
 
 }
@@ -231,8 +280,38 @@ ul.modal-navigation {
 
 .card {
   font-family: 'Roboto', sans-serif;
-	height: 344px;
-	width: 344px;
+	// height: 344px;
+  height: 21.5em;
+	// width: 344px;
+  width: 21.5em;
+
+  @media (max-width: 1200px) {
+    // width: 280px;
+    width: 17.5em;
+    // height: 280px;
+    height: 17.5em;
+  }
+
+  @media (max-width: 992px) {
+    // width: 230px;
+    width: 14.375em;
+    // height: 230px;
+    height: 14.375em;
+  }
+
+  @media (max-width: 767px) {
+    // height: 344px;
+    height: 21.5em;
+  	// width: 344px;
+    width: 21.5em;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  }
+
+  @media #{$brk-375} {
+    width: 15.25em;
+    height: 15.25em;
+  }
 
   figure {
     padding: 15px 0 0 0;
@@ -240,43 +319,40 @@ ul.modal-navigation {
     @media #{$brk-992} {
       padding: 0;
     }
-  }
 
-  @media (max-width: 1200px) {
-    width: 280px;
-    height: 280px;
-  }
-
-  @media (max-width: 992px) {
-    width: 230px;
-    height: 230px;
-  }
-
-  @media (max-width: 767px) {
-    height: 344px;
-  	width: 344px;
-    margin: 0 auto;
-    margin-bottom: 50px;
   }
 
   img {
-    width: 316px;
-    height: 252px;
+    // width: 316px;
+    width: 19.75em;
+    // height: 252px;
+    height: 15.75em;
     margin-top: 15px;
 
     @media (max-width: 1200px) {
-      width: 250px;
-      height: 199px;
+      // width: 250px;
+      width: 15.625em;
+      // height: 199px;
+      height: 12.4375em;
     }
 
     @media (max-width: 992px) {
-      width: 200px;
-      height: 159px;
+      // width: 200px;
+      width: 12.5em;
+      // height: 159px;
+      height: 9.9375em;
     }
 
     @media (max-width: 767px) {
-      width: 316px;
-      height: 252px;
+      // width: 316px;
+      width: 19.75em;
+      // height: 252px;
+      height: 15.75em;
+    }
+
+    @media #{$brk-375} {
+      width: 13.5em;
+      height: 10.765625em;
     }
 
   }
@@ -343,10 +419,6 @@ ul.modal-navigation {
 	padding-bottom: 80px;
 }
 
-.front {
-	background-color: $white;
-}
-
 .back {
 	background-color: $aqua;
 	text-align: center;
@@ -359,67 +431,93 @@ ul.modal-navigation {
 
 
   p {
-    font-size: 30px;
+    // font-size: 30px;
+    font-size: 1.875em;
     line-height: 40px;
     font-weight: 700;
 
     @media #{$brk-1200} {
-      font-size: 20px;
+      // font-size: 20px;
+      font-size: 1.25em;
       line-height: 30px;
     }
 
     @media #{$brk-992} {
-      font-size: 16px;
+      // font-size: 16px;
+      font-size: 1em;
       line-height: 25px;
     }
 
     @media #{$brk-767} {
-      font-size: 30px;
+      // font-size: 30px;
+      font-size: 1.875em;
       line-height: 40px;
     }
+
+    @media #{$brk-small} {
+      font-size: 1.50em;
+      line-height: 30px;
+    }
+
   }
 
 }
 
-.front h3 {
+.front {
+  background-color: $white;
+
+  h3 {
 	color: #1981c4;
 	text-transform: uppercase;
 	text-align: center;
 	margin: 0;
 	padding: 0;
 	font-weight: 700;
-  font-size: 20px;
+  // font-size: 20px;
+  font-size: 1.25em;
   line-height: 30px;
 
   @media #{$brk-992} {
-    font-size: 12px;
+    // font-size: 12px;
+    font-size: 0.75em;
   }
 
   @media #{$brk-767} {
-    font-size: 20px;
+    // font-size: 20px;
+    font-size: 1.25em;
   }
 }
 
-.front h4 {
+h4 {
 	color: #666666;
-	font-size: 16px;
+	// font-size: 16px;
+  font-size: 1em;
 	font-weight: 400;
 	text-align: center;
 	margin: 0;
 	padding: 0;
-  font-size: 16px;
+  // font-size: 16px;
 
   @media #{$brk-1200} {
-    font-size: 12px;
+    // font-size: 12px;
+    font-size: 0.75em;
   }
 
   @media #{$brk-992} {
-    font-size: 10px;
+    // font-size: 10px;
+    font-size: 0.625em;
   }
 
   @media #{$brk-767} {
-    font-size: 16px;
+    // font-size: 16px;
+    font-size: 1em;
   }
+
+  @media #{$brk-small} {
+    font-size: 0.625em;
+  }
+
+}
 
 }
 

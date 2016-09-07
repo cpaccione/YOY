@@ -101,41 +101,43 @@ Template name: YOY Landing page
                   <div class="row">
                    <div class="col-sm-12">
                       <div class="videoWrapper">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/J3GIs4iLEes" frameborder="0" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/oDLp8Z3oJVU?list=PL8O6tdwpXwZafI0GbQ2xIasoSEY8LJ0UN" frameborder="0" allowfullscreen></iframe>
                       </div>
                    </div>
                   </div>
 
                   <div class="row">
                       <div class="col-sm-1">
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                           viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
-                        <g>
+                        <div class="quote">
+                          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                             viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
                           <g>
-                            <defs>
-                              <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
-                            </defs>
-                            <clipPath id="SVGID_2_">
-                              <use xlink:href="#SVGID_125_"  overflow="visible"/>
-                            </clipPath>
-                            <g clip-path="url(#SVGID_2_)">
+                            <g>
+                              <defs>
+                                <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
+                              </defs>
+                              <clipPath id="SVGID_2_">
+                                <use xlink:href="#SVGID_125_"  overflow="visible"/>
+                              </clipPath>
+                              <g clip-path="url(#SVGID_2_)">
+                              </g>
                             </g>
                           </g>
-                        </g>
-                        <g>
-                          <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
-                            c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
-                            c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
-                            c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
-                            c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
-                            c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
-                        </g>
-                        </svg>
+                          <g>
+                            <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
+                              c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
+                              c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
+                              c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
+                              c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
+                              c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
+                          </g>
+                          </svg>
+                        </div>
                       </div>
                       <div class="col-sm-11">
                         <div class="quote-wrap">
                           <p>
-                            I no longer walk in shame, but I stride in dignity. My Club enlightened me to the facts that there are no bounds to my strength, and that I can create my own phenomenal path"
+                            I no longer walk in shame, but I stride in dignity. My Club enlightened me to the facts that there are no bounds to my strength, and that I can create my own phenomenal path."
                           </p>
                         </div>
                       </div>
@@ -213,41 +215,43 @@ Template name: YOY Landing page
                   <div class="row">
                    <div class="col-sm-12">
                       <div class="videoWrapper">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/J3GIs4iLEes" frameborder="0" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/oDLp8Z3oJVU?list=PL8O6tdwpXwZafI0GbQ2xIasoSEY8LJ0UN" frameborder="0" allowfullscreen></iframe>
                       </div>
                    </div>
                   </div>
 
                   <div class="row">
                       <div class="col-sm-1">
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                           viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
-                        <g>
+                        <div class="quote">
+                          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                             viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
                           <g>
-                            <defs>
-                              <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
-                            </defs>
-                            <clipPath id="SVGID_2_">
-                              <use xlink:href="#SVGID_125_"  overflow="visible"/>
-                            </clipPath>
-                            <g clip-path="url(#SVGID_2_)">
+                            <g>
+                              <defs>
+                                <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
+                              </defs>
+                              <clipPath id="SVGID_2_">
+                                <use xlink:href="#SVGID_125_"  overflow="visible"/>
+                              </clipPath>
+                              <g clip-path="url(#SVGID_2_)">
+                              </g>
                             </g>
                           </g>
-                        </g>
-                        <g>
-                          <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
-                            c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
-                            c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
-                            c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
-                            c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
-                            c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
-                        </g>
-                        </svg>
+                          <g>
+                            <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
+                              c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
+                              c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
+                              c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
+                              c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
+                              c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
+                          </g>
+                          </svg>
+                        </div>
                       </div>
                       <div class="col-sm-11">
                         <div class="quote-wrap">
                           <p>
-                            Work hard in silence. Let success be your noise"
+                            Work hard in silence. Let success be your noise."
                           </p>
                         </div>
                       </div>
@@ -310,10 +314,12 @@ Template name: YOY Landing page
                    <img class="img-responsive" src="<?php bloginfo('template_directory')?>/images/profile_melanie.png" alt="Melanie's profile" />
                  </div>
                   <div class="col-sm-6">
-                    <h2>Melanie W.</h2>
-                    <h3>2016-17 Southwest Region<br>Youth of the Year</h3>
-                    <p><b>Boys &amp; Girls Clubs of the Austin Area</b></p>
-                    <p><b>Austin, Texas</b></p>
+                    <div class="profile-meta">
+                      <h2>Melanie W.</h2>
+                      <h3>2016-17 Southwest Region<br>Youth of the Year</h3>
+                      <p><b>Boys &amp; Girls Clubs of the Austin Area</b></p>
+                      <p><b>Austin, Texas</b></p>
+                    </div>
                     <p>Before Melanie started high school, she had no idea where her path would lead. Joining her local Boys &amp; Girls Club brought Melanie into a supportive environment that encouraged her to plan for the future and instilled in her the belief that she could achieve anything with hard work. Not only did her Club inspire Melanie to dream big, it also equipped her with the skills and tools needed to accomplish her new goals, one of which is becoming a doctor.</p>
                     <h4>Cheer for Melanie!</h4>
                     <div class="social-cta">
@@ -325,41 +331,43 @@ Template name: YOY Landing page
                 <div class="row">
                  <div class="col-sm-12">
                     <div class="videoWrapper">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/J3GIs4iLEes" frameborder="0" allowfullscreen></iframe>
+                      <iframe src="https://www.youtube.com/embed/AC-VpDn58Dg" frameborder="0" allowfullscreen></iframe>
                     </div>
                  </div>
                 </div>
 
                 <div class="row">
                     <div class="col-sm-1">
-                      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                         viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
-                      <g>
+                      <div class="quote">
+                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                           viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
                         <g>
-                          <defs>
-                            <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
-                          </defs>
-                          <clipPath id="SVGID_2_">
-                            <use xlink:href="#SVGID_125_"  overflow="visible"/>
-                          </clipPath>
-                          <g clip-path="url(#SVGID_2_)">
+                          <g>
+                            <defs>
+                              <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
+                            </defs>
+                            <clipPath id="SVGID_2_">
+                              <use xlink:href="#SVGID_125_"  overflow="visible"/>
+                            </clipPath>
+                            <g clip-path="url(#SVGID_2_)">
+                            </g>
                           </g>
                         </g>
-                      </g>
-                      <g>
-                        <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
-                          c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
-                          c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
-                          c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
-                          c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
-                          c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
-                      </g>
-                      </svg>
+                        <g>
+                          <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
+                            c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
+                            c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
+                            c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
+                            c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
+                            c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
+                        </g>
+                        </svg>
+                      </div>
                     </div>
                     <div class="col-sm-11">
                       <div class="quote-wrap">
                         <p>
-                          Some things are hard, but nothing is impossible"
+                          Some things are hard, but nothing is impossible."
                         </p>
                       </div>
                     </div>
@@ -445,36 +453,38 @@ Template name: YOY Landing page
                 <div class="row">
                  <div class="col-sm-12">
                     <div class="videoWrapper">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/J3GIs4iLEes" frameborder="0" allowfullscreen></iframe>
+                      <iframe src="https://www.youtube.com/embed/KIi4I_IvNwQ" frameborder="0" allowfullscreen></iframe>
                     </div>
                  </div>
                 </div>
 
                 <div class="row">
                     <div class="col-sm-1">
-                      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                         viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
-                      <g>
+                      <div class="quote">
+                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                           viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
                         <g>
-                          <defs>
-                            <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
-                          </defs>
-                          <clipPath id="SVGID_2_">
-                            <use xlink:href="#SVGID_125_"  overflow="visible"/>
-                          </clipPath>
-                          <g clip-path="url(#SVGID_2_)">
+                          <g>
+                            <defs>
+                              <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
+                            </defs>
+                            <clipPath id="SVGID_2_">
+                              <use xlink:href="#SVGID_125_"  overflow="visible"/>
+                            </clipPath>
+                            <g clip-path="url(#SVGID_2_)">
+                            </g>
                           </g>
                         </g>
-                      </g>
-                      <g>
-                        <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
-                          c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
-                          c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
-                          c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
-                          c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
-                          c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
-                      </g>
-                      </svg>
+                        <g>
+                          <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
+                            c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
+                            c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
+                            c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
+                            c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
+                            c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
+                        </g>
+                        </svg>
+                      </div>
                     </div>
                     <div class="col-sm-11">
                       <div class="quote-wrap">
@@ -610,36 +620,38 @@ Template name: YOY Landing page
                 <div class="row">
                  <div class="col-sm-12">
                     <div class="videoWrapper">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/J3GIs4iLEes" frameborder="0" allowfullscreen></iframe>
+                      <iframe src="https://www.youtube.com/embed/ZIqoY2L_VGQ" frameborder="0" allowfullscreen></iframe>
                     </div>
                  </div>
                 </div>
 
                 <div class="row">
                     <div class="col-sm-1">
-                      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                         viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
-                      <g>
+                      <div class="quote">
+                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                           viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
                         <g>
-                          <defs>
-                            <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
-                          </defs>
-                          <clipPath id="SVGID_2_">
-                            <use xlink:href="#SVGID_125_"  overflow="visible"/>
-                          </clipPath>
-                          <g clip-path="url(#SVGID_2_)">
+                          <g>
+                            <defs>
+                              <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
+                            </defs>
+                            <clipPath id="SVGID_2_">
+                              <use xlink:href="#SVGID_125_"  overflow="visible"/>
+                            </clipPath>
+                            <g clip-path="url(#SVGID_2_)">
+                            </g>
                           </g>
                         </g>
-                      </g>
-                      <g>
-                        <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
-                          c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
-                          c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
-                          c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
-                          c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
-                          c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
-                      </g>
-                      </svg>
+                        <g>
+                          <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
+                            c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
+                            c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
+                            c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
+                            c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
+                            c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
+                        </g>
+                        </svg>
+                      </div>
                     </div>
                     <div class="col-sm-11">
                       <div class="quote-wrap">
@@ -691,7 +703,7 @@ Template name: YOY Landing page
     				<p>One of these six awe-inspiring young leaders will be named the 2016-2017 National Youth of the Year! Watch it all happen during our Facebook <b>LIVE EVENT!</b> Follow us to see highlights from the big day, celebrity alumni and friends walk the Blue Carpet and some surprise guests! Share, comment and participate during our live stream for a chance to win some big prizes.</p>
             <h3>Tune In to Win!</h3>
             <div class="social-cta">
-              <h5>VISIT OUR FACEBOOK PAGE &nbsp;<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></h5>
+              <h5>VISIT OUR FACEBOOK PAGE &nbsp; <a href="https://www.facebook.com/bgca.clubs" target="_blank"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a></h5>
             </div>
           </div>
 				</div>
