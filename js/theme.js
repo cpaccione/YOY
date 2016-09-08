@@ -207,6 +207,15 @@ confettiEffect.prototype.clickEventHandler = function( event ) {
         if( mouseX > button.x && mouseX < button.deltaX && mouseY > button.y && mouseY < button.deltaY )
             button.$el.trigger( "click" );
     }
+
+// I comment out this script because it wasn't working to show the mouse pointer on hover. This was suggested by Kareem from UpWork. This script is tied in with the css rule #confetti.pointer which is not commented out in the container.scss
+		// if( mouseX > button.x && mouseX < button.deltaX && mouseY > button.y && mouseY < button.deltaY ) {
+		// 		button.$el.addClass( "hover" );
+		// 		this.canvas.addClass( "pointer" );
+		// } else if( button.$el.hasClass( "hover" ) ) {
+		// 		button.$el.removeClass( "hover" );
+		// 		this.canvas.removeClass( "pointer" );
+		// }
 }
 
 confettiEffect.prototype.fire = function( x, y ) {
@@ -339,6 +348,8 @@ $( document ).ready( function( $ ) {
     });
 
     new confettiEffect();
+
 });
+
 
 });
