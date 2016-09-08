@@ -1,9 +1,9 @@
 jQuery(document).ready(function($) {
 
 	// Init card flip function
-	$(".card").flip({
-		trigger: "hover"
-	});
+	// $(".card").flip({
+	// 	trigger: "hover"
+	// });
 
 	// Stop YouTube video playing when modal is switched or closed
 	$("#modal-one").on('hidden.bs.modal', function (e) {
@@ -63,7 +63,7 @@ function confettiEffect() {
     this.cards = [];
     this.buttons = [];
 
-    /* 
+    /*
      * We toggle this on temporarily when we're flipping a card,
      * It is toggled off later to allow for button clicking.
      * This is to solve a problem where if we click on mobile right on
@@ -77,8 +77,8 @@ function confettiEffect() {
     this.init();
 
     $( document ).mousemove( _.bind( this.hoverEventHandler, this ) );
-    
-    /** 
+
+    /**
      * If the viewport resolution is changed, everything changes.
      * So we need to recalculate card bounding boxes.
      */
@@ -163,7 +163,7 @@ confettiEffect.prototype.hoverEventHandler = function( event ) {
         button = card.button;
 
         if( mouseX > card.x && mouseX < card.deltaX && mouseY > card.y && mouseY < card.deltaY && !card.flipped ) {
-            // console.log( "Mouse X: " + mouseX + "\nCard X: " + card.x + "\n Card AfterX: " + 
+            // console.log( "Mouse X: " + mouseX + "\nCard X: " + card.x + "\n Card AfterX: " +
             // ( card.x + card.width ) + "\nMouse Y: " + mouseY + "\nCard Y: " + card.y + "\n Card AfterY: " + ( card.y + card.height ) )
             card.$el.trigger( "click" );
             card.flipped = true;
@@ -226,12 +226,12 @@ confettiEffect.prototype.fire = function( x, y ) {
         // sprite
         var r = _.random( 4, 6 ) * this.dpr;
         var d = _.random( 15, 25 ) * this.dpr;
-        
+
         var cr = _.random( 30, 255 );
         var cg = _.random( 30, 230 );
         var cb = _.random( 30, 230 );
         var color = "rgb(" + cr + "," + cg + "," + cb + ")";
-        
+
         var tilt = _.random( 10, -10 );
         var tiltAngleIncremental = _.random( 0.07, 0.05 );
         var tiltAngle = 0;
@@ -253,7 +253,7 @@ confettiEffect.prototype.fire = function( x, y ) {
 
         this.confettiSprites[ id ] = sprite;
         this.confettiSpriteIds.push( id );
-        
+
         this.tweenParticle( id );
 
         i++;
@@ -266,7 +266,7 @@ confettiEffect.prototype.tweenParticle = function( id ) {
     // console.log("tweenConfettiParticle");
     var minAngle = sprite.angle - SPREAD / 2;
     var maxAngle = sprite.angle + SPREAD / 2;
-    
+
     var minVelocity = sprite.velocity / 4;
     var maxVelocity = sprite.velocity;
 
@@ -298,9 +298,9 @@ confettiEffect.prototype.tweenParticle = function( id ) {
 
 confettiEffect.prototype.updateConfettiParticle = function( id ) {
     var sprite = this.confettiSprites[ id ];
-    
+
     var tiltAngle = 0.0005 * sprite.d;
-    
+
     sprite.angle += 0.01;
     sprite.tiltAngle += tiltAngle;
     sprite.tiltAngle += sprite.tiltAngleIncremental;

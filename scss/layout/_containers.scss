@@ -213,7 +213,8 @@ ul.modal-navigation {
     }
 }
 
-.slideRight:hover{
+.slideRight:hover,
+.slideRight.hover {
   box-shadow:inset 300px 0 0 0 $white;
   background-color: transparent;
   color: $aqua;
@@ -532,6 +533,10 @@ h4 {
   top: 0px;
   left: 0px;
   z-index: 1000;
+}
+
+.profile-photos {
+	position: relative;
 }
 
 .modal-header .close {

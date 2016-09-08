@@ -46,9 +46,10 @@ Template name: YOY Landing page
 
     <!-- PROFILE SECTION START -->
     <section class="profile-photos">
-      <div class="container">
+        <canvas id="confetti"></canvas>
+          <div class="container">
 
-     	<div class="row first-row">
+     	      <div class="row first-row">
 
         <!-- Card One Alexia L. -->
      		<div class="col-sm-4">
