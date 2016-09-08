@@ -104,7 +104,7 @@ Template name: YOY Landing page
                   <div class="row">
                    <div class="col-sm-12">
                       <div class="videoWrapper">
-                        <iframe src="https://www.youtube.com/embed/oDLp8Z3oJVU?list=PL8O6tdwpXwZafI0GbQ2xIasoSEY8LJ0UN" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/HJN4aXcl6Ps" frameborder="0" allowfullscreen></iframe>
                       </div>
                    </div>
                   </div>
@@ -220,7 +220,7 @@ Template name: YOY Landing page
                   <div class="row">
                    <div class="col-sm-12">
                       <div class="videoWrapper">
-                        <iframe src="https://www.youtube.com/embed/oDLp8Z3oJVU?list=PL8O6tdwpXwZafI0GbQ2xIasoSEY8LJ0UN" frameborder="0" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/oDLp8Z3oJVU" frameborder="0" allowfullscreen></iframe>
                       </div>
                    </div>
                   </div>
@@ -629,7 +629,7 @@ Template name: YOY Landing page
                 <div class="row">
                  <div class="col-sm-12">
                     <div class="videoWrapper">
-                      <iframe src="https://www.youtube.com/embed/ZIqoY2L_VGQ" frameborder="0" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/ZIqoY2L_VGQ" frameborder="0" allowfullscreen></iframe>
                     </div>
                  </div>
                 </div>

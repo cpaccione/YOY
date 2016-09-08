@@ -523,9 +523,7 @@ h4 {
 
 }
 
-/* Modal styles */
-
-/* Confetti */
+// Confetti styles
 #confetti {
   width: 100%;
   height: 100%;
@@ -542,6 +540,16 @@ h4 {
 
 #confetti.pointer {
      cursor: pointer;
+}
+
+.btn-info.active,
+.btn-info.focus,
+.btn-info:active,
+.btn-info:focus,
+.btn-info:hover,
+.open>.dropdown-toggle.btn-info {
+  background-color: transparent;
+  border-color: transparent;
 }
 
 .modal-header .close {
