@@ -21,6 +21,7 @@ function remove_width_attribute( $html ) {
 function yoy_styles() {
 	wp_enqueue_style( 'sans_pro', '//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,600italic,700,700italic' );
 	wp_enqueue_style( 'muli', '//fonts.googleapis.com/css?family=Muli:400,400italic,300,300italic' );
+	wp_enqueue_style( 'roboto', '//fonts.googleapis.com/css?family=Roboto:400,700' );
 	wp_enqueue_style( 'oswald_font', '//fonts.googleapis.com/css?family=Oswald:700' );
 	wp_enqueue_style( 'bootstrap', '//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css' );
 	wp_enqueue_style( 'font_awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' );
