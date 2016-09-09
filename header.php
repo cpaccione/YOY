@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 <!--Favicon added by JM 20150811-->
 
 <link rel="apple-touch-icon" sizes="57x57" href="/wp-content/themes/yoy/images/apple-icon-57x57.png">
