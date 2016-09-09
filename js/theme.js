@@ -185,11 +185,15 @@ confettiEffect.prototype.hoverEventHandler = function( event ) {
         button.deltaX =  buttonOffset.left + button.$el.outerWidth();
         button.deltaY = buttonOffset.top + button.$el.outerHeight();
 
-        if( mouseX > button.x && mouseX < button.deltaX && mouseY > button.y && mouseY < button.deltaY ) {
+				if( mouseX > button.x && mouseX < button.deltaX && mouseY > button.y && mouseY < button.deltaY ) {
             button.$el.addClass( "hover" );
+            document.body.style.cursor = "pointer";
+
         } else if( button.$el.hasClass( "hover" ) ) {
             button.$el.removeClass( "hover" );
+            document.body.style.cursor = "default";
         }
+				
     }
 }
 
