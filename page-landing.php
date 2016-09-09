@@ -523,25 +523,25 @@ Template name: YOY Landing page
           </div>
         </div>
 
-        <!-- Card Five FPO -->
+        <!-- Card Five Arianna S. -->
      		<div class="col-sm-4">
      			<div class="card">
 					<div class="front">
 						<img class="center-block" src="<?php bloginfo('template_directory'); ?>/images/headshot-07.jpg" alt="boys and girls club">
             <figure>
-              <h3>TBD</h3>
-  						<h4>2016-17 Pacific Youth of the Year</h4>
+              <h3>Arianna S.</h3>
+  						<h4>2016-17 Northeast Military Youth of the Year</h4>
             </figure>
 					</div>
 					<div class="back">
-						<p>First of her family to attend college. See her hit her stride in D.C.</p>
+						<p>Her story is just beginning. Follow her as she makes a difference!</p>
 						<!-- Trigger/Open The Modal -->
 						<button type="button" class="btn btn-info btn-lg slideRight" data-toggle="modal" data-target="#modal-five">READ MORE</button>
 					</div>
 			    </div>
         </div>
 
-          <!-- Modal Five -->
+          <!-- Modal Five Arianna S. -->
           <div id="modal-five" class="modal fade" role="dialog">
             <div class="modal-dialog modal-lg">
 
@@ -551,12 +551,76 @@ Template name: YOY Landing page
                 <button type="button" class="close" data-dismiss="modal"><img src="<?php bloginfo('template_directory'); ?>/images/modal-close-icon.png"></button>
                 <!-- <h4 class="modal-title">Modal Header</h4> -->
               </div>
-              <div class="modal-body">
-                <p>Modal Five.</p>
-              </div>
+
+                <div class="modal-body">
+                  <div class="row">
+                   <div class="col-sm-6">
+                     <img class="img-responsive" src="<?php bloginfo('template_directory')?>/images/profile_melanie.png" alt="Melanie's profile" />
+                   </div>
+                    <div class="col-sm-6">
+                      <div class="profile-meta">
+                        <h2>Arianna S.</h2>
+                        <h3>2016-17 Northeast Military</h3>
+                        <p><b>Boys &amp; Girls Clubs of the New Jersey Area</b></p>
+                        <p><b>Fort Dix, New Jersey</b></p>
+                      </div>
+                      <p>Arianna has moved every four years to a new military installation. Whether living in Germany or Japan, Arianna found a home at her Boys &amp; Girls Clubs of America-affiliated Youth Program. When Arianna learned she was moving back to the United States, she was nervous about starting over again. As soon as she walked into the Club, Arianna felt relief wash over her. Arianna’s Club involvement has shaped her into a well-rounded young adult with strong leadership skills.</p>
+                      <h4>Cheer for Arianna!</h4>
+                      <div class="social-cta">
+                        <h5>SHARE NOW TO SHOW YOUR SUPPORT &nbsp;<a href="https://www.facebook.com/dialog/feed?app_id=184683071273&link=http%3A%2F%2Fwww.youthoftheyear.org%2F&picture=http%3A%2F%2Fwww.youthoftheyear.org%2Fwp-content%2Fthemes%2Fyoy%2Fimages%2FAPI_Images%2F146362_Melanie-W._SW.jpg&name=I%E2%80%99m%20cheering%20loud%20for%20finalist%20Melanie%20W%20on%20her%20quest%20to%20become%20the%20NEXT%20National%20Youth%20of%20the%20Year&caption=%20&description=Driven%20to%20succeed%20and%20chosen%20from%20among%204%20Mil%20Club%20youth%2C%20Melanie%20heads%20to%20Wash%20D.C.%20on%209.27.16%20for%20Boys%20%26%20Girls%20Clubs%20of%20America%E2%80%99s%20highest%20honor.%20Will%20she%20be%20the%20next%20National%20Youth%20of%20the%20Year%3F%20Learn%20her%20story.%20Show%20your%20support.%20Celebrate%20her%20journey.%20%23FollowOurLead%20%23YOY&redirect_uri=http%3A%2F%2Fwww.facebook.com%2F" target="_blank"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>&nbsp;<a href="http://twitter.com/intent/tweet?text=I%E2%80%99m%20cheering%20loud%20for%20Melanie%20W.!%20Will%20she%20be%20the%20next%20%40BGCA_Clubs%20National%20Youth%20of%20the%20Year%3F%20%23FollowOurLead%20%23YOY%20www.youthoftheyear.org" target="_blank"><i class="fa fa-lg fa-twitter-square" aria-hidden="true"></i></a></h5>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="row">
+                   <div class="col-sm-12">
+                      <div class="videoWrapper">
+                        <iframe src="https://www.youtube.com/embed/v9EiORGT-JY" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                   </div>
+                  </div>
+
+                  <div class="row">
+                      <div class="col-sm-1">
+                        <div class="quote">
+                          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                             viewBox="0 0 107.9 84.6" enable-background="new 0 0 107.9 84.6" xml:space="preserve">
+                          <g>
+                            <g>
+                              <defs>
+                                <rect id="SVGID_125_" x="332.3" y="-1538.1" width="1440" height="1907.9"/>
+                              </defs>
+                              <clipPath id="SVGID_2_">
+                                <use xlink:href="#SVGID_125_"  overflow="visible"/>
+                              </clipPath>
+                              <g clip-path="url(#SVGID_2_)">
+                              </g>
+                            </g>
+                          </g>
+                          <g>
+                            <path fill="#76B0D8" d="M48.5,65.3c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8C2.4,70,0,61.8,0,51.5
+                              c0-9.6,4.1-19.4,12.3-29.2c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C38,13,30.9,18.1,25.7,24c-5.2,5.9-8.1,13-9,21.3h6.8
+                              c5,0,9.1,0.6,12.2,1.7c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C48.1,60.4,48.5,62.8,48.5,65.3z M107.9,65.3
+                              c0,5.1-2.1,9.6-6.2,13.5c-4.1,3.9-9,5.8-14.7,5.8c-8.9,0-15.7-2.9-20.4-8.8c-4.8-5.9-7.1-14-7.1-24.3c0-9.6,4.1-19.4,12.3-29.2
+                              c8.2-9.8,18-17.2,29.5-22.3l5.3,8.6C97.4,13,90.3,18.1,85.1,24c-5.2,5.9-8.1,13-9,21.3H83c5,0,9.1,0.6,12.2,1.7
+                              c3.1,1.1,5.7,2.7,7.6,4.7c1.9,1.9,3.2,4.1,3.9,6.4C107.5,60.4,107.9,62.8,107.9,65.3z"/>
+                          </g>
+                          </svg>
+                        </div>
+                      </div>
+                      <div class="col-sm-11">
+                        <div class="quote-wrap">
+                          <p>
+                            My Club taught me that a little bit of fear is NOT a sign of weakness! It is a tool that can be used to help me not to become too comfortable with my life as a military teen."
+                          </p>
+                        </div>
+                      </div>
+                  </div>
+                </div>
+
               <div class="modal-footer">
                 <section class="social">
-                  <p>Show your support for TBD! <i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i> <i class="fa fa-lg fa-twitter-square" aria-hidden="true"></i></p>
+                  <p>Show your support for Arianna! <i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i> <i class="fa fa-lg fa-twitter-square" aria-hidden="true"></i></p>
                 </section>
                 <section class="white-break"></section>
                 <section class="modal-nav-container">
