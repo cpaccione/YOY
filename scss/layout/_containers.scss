@@ -59,6 +59,10 @@
     width: 107px;
     margin-top: 50px;
 
+    @media #{$brk-1200} {
+      width: 70px;
+    }
+
     @media #{$brk-767} {
       margin-top: 25px;
     }

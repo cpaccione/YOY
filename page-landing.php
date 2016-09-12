@@ -575,7 +575,7 @@ Template name: YOY Landing page
                   <div class="row">
                    <div class="col-sm-12">
                       <div class="videoWrapper">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/coHqQR1rYRs" frameborder="0" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/NMKr8Z5eFa0" frameborder="0" allowfullscreen></iframe>
                       </div>
                    </div>
                   </div>
