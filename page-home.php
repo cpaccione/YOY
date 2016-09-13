@@ -15,7 +15,8 @@ Template name: Home page with slider
 <!-- Revolution Slider  -->
 <section class="rev-wrap">
 	
-	<?php putRevSlider("homepage", "homepage") ?>
+	<?php putRevSlider("homepage") ?>
+
 
 </section>
 
