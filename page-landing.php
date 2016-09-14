@@ -560,8 +560,8 @@ Template name: YOY Landing page
                     <div class="col-sm-6">
                       <div class="profile-meta">
                         <h2>Arianna S.</h2>
-                        <h3>2016-17 Military Youth of the Year</h3>
-                        <p><b>Boys &amp; Girls Clubs of the New Jersey Area</b></p>
+                        <h3>2016-17 National Military Youth of the Year</h3>
+                        <p><b>JB MD-Ft. Dix Youth Programs</b></p>
                         <p><b>Fort Dix, New Jersey</b></p>
                       </div>
                       <p>Arianna has moved every four years to a new military installation. Whether living in Germany or Japan, Arianna found a home at her Boys &amp; Girls Clubs of America-affiliated Youth Center. When Arianna learned she was moving back to the United States, she was nervous about starting over again. As soon as she walked into the Club, Arianna felt relief wash over her. Arianna’s Club involvement has shaped her into a well-rounded young adult with strong leadership skills.</p>
