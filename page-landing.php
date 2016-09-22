@@ -778,6 +778,9 @@ Template name: YOY Landing page
             <div class="social-cta">
               <h5>VISIT OUR FACEBOOK PAGE &nbsp; <a href="https://www.facebook.com/bgca.clubs" target="_blank"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a></h5>
             </div>
+            <div class="rules">
+              <small><a href="http://youthoftheyear.org/facebook_sweeps.pdf" target="_blank">Sweepstakes Rules</a></small>
+            </div>
           </div>
 				</div>
 			</div>
